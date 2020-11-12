@@ -7,8 +7,6 @@ curl \
 elfutils \
 g++ \
 gcc \
-gitk \
-gtkterm \
 htop \
 libqt5concurrent5 \
 libqt5quickshapes5 \
@@ -28,10 +26,8 @@ qml-module-qtquick-scene3d \
 qml-module-qtquick-shapes \
 qml-module-qtquick-templates2 \
 qt3d5-dev \
-qt3d5-examples \
 qt5-default \
 qtbase5-dev \
-qtcreator \
 qtdeclarative5-dev \
 qtdeclarative5-dev-tools \
 qtquickcontrols2-5-dev \
