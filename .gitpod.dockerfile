@@ -18,5 +18,5 @@ RUN sudo apt-get update \
     libx11-xcb-dev \ 
     libglu1-mesa-dev \
     \
-    libqt5sql5-sqlite 
+    libqt5sql5-sqlite \
  && sudo rm -rf /var/lib/apt/lists/*
